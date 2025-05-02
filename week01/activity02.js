@@ -3,5 +3,5 @@ const friendApples = 2;
 let total = myApples + friendApples;
 
 document.getElementById("myAppleElement").textContent = myApples;
-document.getElementById("myAppleElement").textContent = friendApples;
-document.getElementById("myAppleElement").textContent = total;
+document.getElementById("friendApplesElement").textContent = friendApples;
+document.getElementById("totalApplesElement").textContent = total;
