@@ -1,7 +1,27 @@
-header {
-    text-transform: capitalize;
+div {
+    max-width: 600px;
+    border: 1px solid gray;
+    margin: auto
 }
 
+header {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
 h2 {
- color: #006eb6;   
+ color: #006eb6;
+}
+
+main {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 150px;
 }
