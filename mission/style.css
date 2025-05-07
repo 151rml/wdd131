@@ -13,9 +13,13 @@ header {
 }
 
 h2 {
- color: #006eb6;
+    font: 20px;
+    color: #006eb6;
 }
 
+li {
+    margin-bottom: 20px;
+}
 footer {
     text-align: center;
 }
